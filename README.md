@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaneeDev
 - 👀 I’m interested in broadening my horizons and learning new skills
-- 🌱 I’m currently learning HTML and CSS with an intro in JS
+- 🌱 I’m currently learning HTML and CSS with an intro in JS and certified UX design through Google
 - 💞️ I’m looking to collaborate on anything worthwhile
 - 📫 You can reach me on Discord. 0xSmoove  🔲 ² (∞)#3786
 
